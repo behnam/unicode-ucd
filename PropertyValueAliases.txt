@@ -1,5 +1,5 @@
-# PropertyValueAliases-6.3.0.txt
-# Date: 2013-08-27, 16:02:08 GMT [MD]
+# PropertyValueAliases-7.0.0.txt
+# Date: 2013-10-31, 22:34 [MS, KW]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2013 Unicode, Inc.
@@ -76,6 +76,7 @@ age; 6.0                              ; V6_0
 age; 6.1                              ; V6_1
 age; 6.2                              ; V6_2
 age; 6.3                              ; V6_3
+age; 7.0                              ; V7_0
 age; NA                               ; Unassigned
 
 # Alphabetic (Alpha)
@@ -155,6 +156,7 @@ blk; Avestan                          ; Avestan
 blk; Balinese                         ; Balinese
 blk; Bamum                            ; Bamum
 blk; Bamum_Sup                        ; Bamum_Supplement
+blk; Bassa_Vah                        ; Bassa_Vah
 blk; Batak                            ; Batak
 blk; Bengali                          ; Bengali
 blk; Block_Elements                   ; Block_Elements
@@ -167,6 +169,7 @@ blk; Buginese                         ; Buginese
 blk; Buhid                            ; Buhid
 blk; Byzantine_Music                  ; Byzantine_Musical_Symbols
 blk; Carian                           ; Carian
+blk; Caucasian_Albanian               ; Caucasian_Albanian
 blk; Chakma                           ; Chakma
 blk; Cham                             ; Cham
 blk; Cherokee                         ; Cherokee
@@ -185,6 +188,7 @@ blk; CJK_Symbols                      ; CJK_Symbols_And_Punctuation
 blk; Compat_Jamo                      ; Hangul_Compatibility_Jamo
 blk; Control_Pictures                 ; Control_Pictures
 blk; Coptic                           ; Coptic
+blk; Coptic_Epact_Numbers             ; Coptic_Epact_Numbers
 blk; Counting_Rod                     ; Counting_Rod_Numerals
 blk; Cuneiform                        ; Cuneiform
 blk; Cuneiform_Numbers                ; Cuneiform_Numbers_And_Punctuation
@@ -198,11 +202,14 @@ blk; Deseret                          ; Deseret
 blk; Devanagari                       ; Devanagari
 blk; Devanagari_Ext                   ; Devanagari_Extended
 blk; Diacriticals                     ; Combining_Diacritical_Marks
+blk; Diacriticals_Ext                 ; Combining_Diacritical_Marks_Extended
 blk; Diacriticals_For_Symbols         ; Combining_Diacritical_Marks_For_Symbols; Combining_Marks_For_Symbols
 blk; Diacriticals_Sup                 ; Combining_Diacritical_Marks_Supplement
 blk; Dingbats                         ; Dingbats
 blk; Domino                           ; Domino_Tiles
+blk; Duployan                         ; Duployan
 blk; Egyptian_Hieroglyphs             ; Egyptian_Hieroglyphs
+blk; Elbasan                          ; Elbasan
 blk; Emoticons                        ; Emoticons
 blk; Enclosed_Alphanum                ; Enclosed_Alphanumerics
 blk; Enclosed_Alphanum_Sup            ; Enclosed_Alphanumeric_Supplement
@@ -213,10 +220,12 @@ blk; Ethiopic_Ext                     ; Ethiopic_Extended
 blk; Ethiopic_Ext_A                   ; Ethiopic_Extended_A
 blk; Ethiopic_Sup                     ; Ethiopic_Supplement
 blk; Geometric_Shapes                 ; Geometric_Shapes
+blk; Geometric_Shapes_Ext             ; Geometric_Shapes_Extended
 blk; Georgian                         ; Georgian
 blk; Georgian_Sup                     ; Georgian_Supplement
 blk; Glagolitic                       ; Glagolitic
 blk; Gothic                           ; Gothic
+blk; Grantha                          ; Grantha
 blk; Greek                            ; Greek_And_Coptic
 blk; Greek_Ext                        ; Greek_Extended
 blk; Gujarati                         ; Gujarati
@@ -250,6 +259,8 @@ blk; Kayah_Li                         ; Kayah_Li
 blk; Kharoshthi                       ; Kharoshthi
 blk; Khmer                            ; Khmer
 blk; Khmer_Symbols                    ; Khmer_Symbols
+blk; Khojki                           ; Khojki
+blk; Khudawadi                        ; Khudawadi
 blk; Lao                              ; Lao
 blk; Latin_1_Sup                      ; Latin_1_Supplement               ; Latin_1
 blk; Latin_Ext_A                      ; Latin_Extended_A
@@ -257,22 +268,27 @@ blk; Latin_Ext_Additional             ; Latin_Extended_Additional
 blk; Latin_Ext_B                      ; Latin_Extended_B
 blk; Latin_Ext_C                      ; Latin_Extended_C
 blk; Latin_Ext_D                      ; Latin_Extended_D
+blk; Latin_Ext_E                      ; Latin_Extended_E
 blk; Lepcha                           ; Lepcha
 blk; Letterlike_Symbols               ; Letterlike_Symbols
 blk; Limbu                            ; Limbu
+blk; Linear_A                         ; Linear_A
 blk; Linear_B_Ideograms               ; Linear_B_Ideograms
 blk; Linear_B_Syllabary               ; Linear_B_Syllabary
 blk; Lisu                             ; Lisu
 blk; Low_Surrogates                   ; Low_Surrogates
 blk; Lycian                           ; Lycian
 blk; Lydian                           ; Lydian
+blk; Mahajani                         ; Mahajani
 blk; Mahjong                          ; Mahjong_Tiles
 blk; Malayalam                        ; Malayalam
 blk; Mandaic                          ; Mandaic
+blk; Manichaean                       ; Manichaean
 blk; Math_Alphanum                    ; Mathematical_Alphanumeric_Symbols
 blk; Math_Operators                   ; Mathematical_Operators
 blk; Meetei_Mayek                     ; Meetei_Mayek
 blk; Meetei_Mayek_Ext                 ; Meetei_Mayek_Extensions
+blk; Mende_Kikakui                    ; Mende_Kikakui
 blk; Meroitic_Cursive                 ; Meroitic_Cursive
 blk; Meroitic_Hieroglyphs             ; Meroitic_Hieroglyphs
 blk; Miao                             ; Miao
@@ -282,12 +298,16 @@ blk; Misc_Math_Symbols_B              ; Miscellaneous_Mathematical_Symbols_B
 blk; Misc_Pictographs                 ; Miscellaneous_Symbols_And_Pictographs
 blk; Misc_Symbols                     ; Miscellaneous_Symbols
 blk; Misc_Technical                   ; Miscellaneous_Technical
+blk; Modi                             ; Modi
 blk; Modifier_Letters                 ; Spacing_Modifier_Letters
 blk; Modifier_Tone_Letters            ; Modifier_Tone_Letters
 blk; Mongolian                        ; Mongolian
+blk; Mro                              ; Mro
 blk; Music                            ; Musical_Symbols
 blk; Myanmar                          ; Myanmar
 blk; Myanmar_Ext_A                    ; Myanmar_Extended_A
+blk; Myanmar_Ext_B                    ; Myanmar_Extended_B
+blk; Nabataean                        ; Nabataean
 blk; NB                               ; No_Block
 blk; New_Tai_Lue                      ; New_Tai_Lue
 blk; NKo                              ; NKo
@@ -296,17 +316,24 @@ blk; OCR                              ; Optical_Character_Recognition
 blk; Ogham                            ; Ogham
 blk; Ol_Chiki                         ; Ol_Chiki
 blk; Old_Italic                       ; Old_Italic
+blk; Old_North_Arabian                ; Old_North_Arabian
+blk; Old_Permic                       ; Old_Permic
 blk; Old_Persian                      ; Old_Persian
 blk; Old_South_Arabian                ; Old_South_Arabian
 blk; Old_Turkic                       ; Old_Turkic
 blk; Oriya                            ; Oriya
+blk; Ornamental_Dingbats              ; Ornamental_Dingbats
 blk; Osmanya                          ; Osmanya
+blk; Pahawh_Hmong                     ; Pahawh_Hmong
+blk; Palmyrene                        ; Palmyrene
+blk; Pau_Cin_Hau                      ; Pau_Cin_Hau
 blk; Phags_Pa                         ; Phags_Pa
 blk; Phaistos                         ; Phaistos_Disc
 blk; Phoenician                       ; Phoenician
 blk; Phonetic_Ext                     ; Phonetic_Extensions
 blk; Phonetic_Ext_Sup                 ; Phonetic_Extensions_Supplement
 blk; Playing_Cards                    ; Playing_Cards
+blk; Psalter_Pahlavi                  ; Psalter_Pahlavi
 blk; PUA                              ; Private_Use_Area                 ; Private_Use
 blk; Punctuation                      ; General_Punctuation
 blk; Rejang                           ; Rejang
@@ -316,7 +343,10 @@ blk; Samaritan                        ; Samaritan
 blk; Saurashtra                       ; Saurashtra
 blk; Sharada                          ; Sharada
 blk; Shavian                          ; Shavian
+blk; Shorthand_Format_Controls        ; Shorthand_Format_Controls
+blk; Siddham                          ; Siddham
 blk; Sinhala                          ; Sinhala
+blk; Sinhala_Archaic_Numbers          ; Sinhala_Archaic_Numbers
 blk; Small_Forms                      ; Small_Form_Variants
 blk; Sora_Sompeng                     ; Sora_Sompeng
 blk; Specials                         ; Specials
@@ -324,6 +354,7 @@ blk; Sundanese                        ; Sundanese
 blk; Sundanese_Sup                    ; Sundanese_Supplement
 blk; Sup_Arrows_A                     ; Supplemental_Arrows_A
 blk; Sup_Arrows_B                     ; Supplemental_Arrows_B
+blk; Sup_Arrows_C                     ; Supplemental_Arrows_C
 blk; Sup_Math_Operators               ; Supplemental_Mathematical_Operators
 blk; Sup_PUA_A                        ; Supplementary_Private_Use_Area_A
 blk; Sup_PUA_B                        ; Supplementary_Private_Use_Area_B
@@ -345,6 +376,7 @@ blk; Thaana                           ; Thaana
 blk; Thai                             ; Thai
 blk; Tibetan                          ; Tibetan
 blk; Tifinagh                         ; Tifinagh
+blk; Tirhuta                          ; Tirhuta
 blk; Transport_And_Map                ; Transport_And_Map_Symbols
 blk; UCAS                             ; Unified_Canadian_Aboriginal_Syllabics; Canadian_Syllabics
 blk; UCAS_Ext                         ; Unified_Canadian_Aboriginal_Syllabics_Extended
@@ -354,6 +386,7 @@ blk; Vedic_Ext                        ; Vedic_Extensions
 blk; Vertical_Forms                   ; Vertical_Forms
 blk; VS                               ; Variation_Selectors
 blk; VS_Sup                           ; Variation_Selectors_Supplement
+blk; Warang_Citi                      ; Warang_Citi
 blk; Yi_Radicals                      ; Yi_Radicals
 blk; Yi_Syllables                     ; Yi_Syllables
 blk; Yijing                           ; Yijing_Hexagram_Symbols
@@ -557,6 +590,7 @@ Comp_Ex; Y                            ; Yes                              ; T    
 
 # General_Category (gc)
 
+# @missing: 0000..10FFFF; General_Category; Cn
 gc ; C                                ; Other                            # Cc | Cf | Cn | Co | Cs
 gc ; Cc                               ; Control                          ; cntrl
 gc ; Cf                               ; Format
@@ -1023,12 +1057,14 @@ STerm; Y                              ; Yes                              ; T    
 
 # Script (sc)
 
+sc ; Aghb                             ; Caucasian_Albanian
 sc ; Arab                             ; Arabic
 sc ; Armi                             ; Imperial_Aramaic
 sc ; Armn                             ; Armenian
 sc ; Avst                             ; Avestan
 sc ; Bali                             ; Balinese
 sc ; Bamu                             ; Bamum
+sc ; Bass                             ; Bassa_Vah
 sc ; Batk                             ; Batak
 sc ; Beng                             ; Bengali
 sc ; Bopo                             ; Bopomofo
@@ -1046,11 +1082,14 @@ sc ; Cprt                             ; Cypriot
 sc ; Cyrl                             ; Cyrillic
 sc ; Deva                             ; Devanagari
 sc ; Dsrt                             ; Deseret
+sc ; Dupl                             ; Duployan
 sc ; Egyp                             ; Egyptian_Hieroglyphs
+sc ; Elba                             ; Elbasan
 sc ; Ethi                             ; Ethiopic
 sc ; Geor                             ; Georgian
 sc ; Glag                             ; Glagolitic
 sc ; Goth                             ; Gothic
+sc ; Gran                             ; Grantha
 sc ; Grek                             ; Greek
 sc ; Gujr                             ; Gujarati
 sc ; Guru                             ; Gurmukhi
@@ -1059,6 +1098,7 @@ sc ; Hani                             ; Han
 sc ; Hano                             ; Hanunoo
 sc ; Hebr                             ; Hebrew
 sc ; Hira                             ; Hiragana
+sc ; Hmng                             ; Pahawh_Hmong
 sc ; Hrkt                             ; Katakana_Or_Hiragana
 sc ; Ital                             ; Old_Italic
 sc ; Java                             ; Javanese
@@ -1066,6 +1106,7 @@ sc ; Kali                             ; Kayah_Li
 sc ; Kana                             ; Katakana
 sc ; Khar                             ; Kharoshthi
 sc ; Khmr                             ; Khmer
+sc ; Khoj                             ; Khojki
 sc ; Knda                             ; Kannada
 sc ; Kthi                             ; Kaithi
 sc ; Lana                             ; Tai_Tham
@@ -1073,25 +1114,37 @@ sc ; Laoo                             ; Lao
 sc ; Latn                             ; Latin
 sc ; Lepc                             ; Lepcha
 sc ; Limb                             ; Limbu
+sc ; Lina                             ; Linear_A
 sc ; Linb                             ; Linear_B
 sc ; Lisu                             ; Lisu
 sc ; Lyci                             ; Lycian
 sc ; Lydi                             ; Lydian
+sc ; Mahj                             ; Mahajani
 sc ; Mand                             ; Mandaic
+sc ; Mani                             ; Manichaean
+sc ; Mend                             ; Mende_Kikakui
 sc ; Merc                             ; Meroitic_Cursive
 sc ; Mero                             ; Meroitic_Hieroglyphs
 sc ; Mlym                             ; Malayalam
+sc ; Modi                             ; Modi
 sc ; Mong                             ; Mongolian
+sc ; Mroo                             ; Mro
 sc ; Mtei                             ; Meetei_Mayek
 sc ; Mymr                             ; Myanmar
+sc ; Narb                             ; Old_North_Arabian
+sc ; Nbat                             ; Nabataean
 sc ; Nkoo                             ; Nko
 sc ; Ogam                             ; Ogham
 sc ; Olck                             ; Ol_Chiki
 sc ; Orkh                             ; Old_Turkic
 sc ; Orya                             ; Oriya
 sc ; Osma                             ; Osmanya
+sc ; Palm                             ; Palmyrene
+sc ; Pauc                             ; Pau_Cin_Hau
+sc ; Perm                             ; Old_Permic
 sc ; Phag                             ; Phags_Pa
 sc ; Phli                             ; Inscriptional_Pahlavi
+sc ; Phlp                             ; Psalter_Pahlavi
 sc ; Phnx                             ; Phoenician
 sc ; Plrd                             ; Miao
 sc ; Prti                             ; Inscriptional_Parthian
@@ -1102,6 +1155,8 @@ sc ; Sarb                             ; Old_South_Arabian
 sc ; Saur                             ; Saurashtra
 sc ; Shaw                             ; Shavian
 sc ; Shrd                             ; Sharada
+sc ; Sidd                             ; Siddham
+sc ; Sind                             ; Khudawadi
 sc ; Sinh                             ; Sinhala
 sc ; Sora                             ; Sora_Sompeng
 sc ; Sund                             ; Sundanese
@@ -1119,8 +1174,10 @@ sc ; Tglg                             ; Tagalog
 sc ; Thaa                             ; Thaana
 sc ; Thai                             ; Thai
 sc ; Tibt                             ; Tibetan
+sc ; Tirh                             ; Tirhuta
 sc ; Ugar                             ; Ugaritic
 sc ; Vaii                             ; Vai
+sc ; Wara                             ; Warang_Citi
 sc ; Xpeo                             ; Old_Persian
 sc ; Xsux                             ; Cuneiform
 sc ; Yiii                             ; Yi
